@@ -1,1 +1,7 @@
 dvc
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+xgboost
